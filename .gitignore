@@ -1,1 +1,6 @@
 /target
+
+# Security
+.env
+.env.*
+*.key
